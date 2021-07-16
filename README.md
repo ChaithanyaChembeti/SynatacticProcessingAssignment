@@ -31,5 +31,3 @@ Compare the tagging accuracy after making these modifications with the vanilla V
 List down at least three cases from the sample test file (i.e. unknown word-tag pairs) which were incorrectly tagged by the original Viterbi POS tagger and got corrected after your modifications.
  
 
-
-You can download the Jupyter notebook from below. The dataset has been read and stored in the variable ‘nltk_data’.  Use this notebook as your starter code. 
